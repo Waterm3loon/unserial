@@ -1,0 +1,11 @@
+.button{
+	text-indent: 0;
+	background-color: #363940;
+}
+.button:hover{
+	cursor: pointer;
+	background-color: #2B2D30;
+}
+.message{
+	margin: 10px;
+}

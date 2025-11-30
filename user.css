@@ -1,0 +1,7 @@
+.suspended input{
+	opacity: 0.5;
+	pointer-events: none;
+}
+.dir{
+	background-color: red;
+}
